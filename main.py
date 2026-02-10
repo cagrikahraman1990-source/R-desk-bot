@@ -1,8 +1,8 @@
 import requests
 from flask import Flask, request
 
-BOT_TOKEN = "BURAYA_BOT_TOKEN"
-CHAT_ID = "BURAYA_CHAT_ID"
+BOT_TOKEN = "8257960571:AAGqlVkb_NYx5es_5Lm55XPEALng9RpYCD4"
+CHAT_ID = "7198009222"
 
 app = Flask(__name__)
 
